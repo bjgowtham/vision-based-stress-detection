@@ -1,4 +1,4 @@
-# Vision-Based Stress Detection using ML & Deep Learning
+## A vision-based system for detecting stress using facial features with Machine Learning and Deep Learning.
 
 ## 🔍 Overview
 
